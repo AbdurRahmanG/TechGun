@@ -1,3 +1,6 @@
+<- We are going with ES6 or ES6 2015 or ECMA Script 2015 or ECMA Script 6 ->
+
+
 Best HTML reference website on the Internet is MDN (mdn html reference).
 
 Best CSS reference website on the Internet is MDN (mdn css reference).
@@ -13,6 +16,23 @@ JavaScript Docs for how to use JavaScript.
 Compatibily check using
 www.caniuse.com
 -----
+-----
 
+-----
+-----
+
+Statements and Comments :-
+-----
+
+Variable :-
+Variable is a container in memory which store value to use later in a program.
+To declare variable we can use var, let, or const keyword
+but preferable keywords are let and const only.
+let is changeable and const is not.
+
+Naming conventions -
+It is case sensitive.
+Start with $, _,  a to z or A to Z only.
+Can not  use reserved keywords.
 
 

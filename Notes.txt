@@ -1,0 +1,18 @@
+Best HTML reference website on the Internet is MDN (mdn html reference).
+
+Best CSS reference website on the Internet is MDN (mdn css reference).
+
+Best JavaScript reference website on the Internet is MDN (mdn javascript reference).
+-----
+
+ECMA Script Docs for Scripting Language.
+
+JavaScript Docs for how to use JavaScript.
+-----
+
+Compatibily check using
+www.caniuse.com
+-----
+
+
+
